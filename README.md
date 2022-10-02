@@ -6,6 +6,6 @@ This repository is about a checkpoint in GOMYCODE html project which involves us
 - use HTML forms
 
 # Instructions
-1- Create the navbar: home, about, work, resume, contact
-2- Create the “about” section, ”work” section, ”resume” section, and ”contact” section (using HTML Forms) 
-3- Create the page footer.
+- Create the navbar: home, about, work, resume, contact
+- Create the “about” section, ”work” section, ”resume” section, and ”contact” section (using HTML Forms) 
+- Create the page footer.
