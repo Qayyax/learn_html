@@ -55,3 +55,16 @@ nav li a:active{
     border-color: rgb(23, 91, 192);
     border: 2px;
 } 
+section{
+    margin: auto;
+    margin-right: 20px;
+}
+.home{
+    color: rgb(51, 45, 56);
+    border-color: rgb(91, 149, 151);
+    border-width: 100%;
+    border: 100px;
+}
+section{
+    padding-left: 20px;
+}
